@@ -64,6 +64,7 @@ export default function RegistrationForm() {
 
       <div>
         <label className="block mb-1">Password</label>
+       
         <input
           type="password"
           name="password"
